@@ -1,0 +1,5 @@
+This set of interfaces is meant for debugging/testing networks for learning math
+
+World generates numbers for example
+
+Y = X1 + X2 (output - input)
